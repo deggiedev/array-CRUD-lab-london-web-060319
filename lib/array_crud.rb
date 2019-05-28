@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  james_bond_films ["Goldfinger", "The Spy Who Loved Me", "The Living Daylights", "Skyfall"]
+  james_bond_films = ["Goldfinger", "The Spy Who Loved Me", "The Living Daylights", "Skyfall"]
 end
 
 def add_element_to_end_of_array(array, element)
